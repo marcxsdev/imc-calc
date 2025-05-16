@@ -19,7 +19,7 @@ Este é um projeto simples feito com **React** que calcula o **IMC (Índice de M
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/marcxsdev/imc-calc.git
 ```
 
 2. Acesse a pasta do projeto:
